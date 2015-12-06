@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    font-size: 40px;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.menu {
+    background-color: #F5B251;
+    color: #FFFFFF;
+    position: relative;
+    margin: auto;
+    max-width: 700px;
+}
+
+.item {
+    color: #F2F309;
+    background-color: #B8BEE2;
+    position: absolute;
+    max-width: 150px;
+    right: 265px;
+}
