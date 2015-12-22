@@ -1,0 +1,43 @@
+.leftlogo a {
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.rightmenu a {
+    color: white;
+    text-decoration: none;
+}
+
+.rightmenu li {
+    display: inline;
+    padding: 20px;
+}
+
+.header {
+    background-color: #055F6D;
+    height: 120px;
+    position: relative;
+}
+
+.leftlogo {
+    padding: 40px;
+}
+
+.rightmenu {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+
+.container {
+    background: #2FC7AA;
+    height: 600px;
+    position: relative;
+}
+
+.banner {
+    max-width: 256px;
+    margin: 0 auto;
+    padding: 100px;
+}

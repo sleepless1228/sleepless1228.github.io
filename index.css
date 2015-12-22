@@ -1,0 +1,38 @@
+    ul {
+        list-style-type: none;
+        font-size: 40px;
+    }
+    
+    li {
+        display: inline;
+    }
+    
+    li a {
+        color: black;
+        text-decoration: none;
+        padding: 20px;
+        font-family: serif;
+    }
+    
+    .header {
+        background-image: url(images/header.jpg);
+        background-size: cover;
+        height: 1100px;
+        margin: auto;
+        position: relative;
+    }
+    
+    .menu {
+        color: #FFFFFF;
+        position: absolute;
+        left: 900px;
+        top: 200px;
+    }
+    
+    .item {
+        color: #F2F309;
+        background-color: #B8BEE2;
+        position: absolute;
+        max-width: 150px;
+        right: 265px;
+    }
