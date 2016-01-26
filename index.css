@@ -16,6 +16,7 @@
     
     .header {
         background-image: url(images/header.jpg);
+        max-width: 100%;
         background-size: cover;
         height: 1100px;
         margin: auto;

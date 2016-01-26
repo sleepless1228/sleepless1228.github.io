@@ -37,7 +37,25 @@
 }
 
 .banner {
-    max-width: 256px;
     margin: 0 auto;
-    padding: 100px;
+    padding: 100px 0px 20px 0px;
+    max-width: 256px;
+}
+
+.title1 {
+    font-size: 80px;
+    margin: 0 auto;
+    max-width: 742px;
+    color: #FFFFFF;
+}
+
+.fa-minus {
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+.fa-star {
+    color: #FFFFFF;
+    margin: 0 auto;
+    max-width: 256px;
 }
